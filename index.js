@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["💻 Killua Development","🔥 High quality scripts/ui"];
+const statusMessages = ["🎲 Best roleplay server ","🔥 High quality scripts/builds","💸 Donate Available 24/7","💻 Powered by Killua Development"];
 
 
 let currentIndex = 0;
